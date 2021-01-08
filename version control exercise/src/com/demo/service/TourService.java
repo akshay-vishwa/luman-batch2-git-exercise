@@ -8,4 +8,11 @@ public class TourService {
 		return 1;
 		
 	}
+	
+	public int update() {
+		if(true)
+			return 2;
+		return 1;
+		
+	}
 }
